@@ -1,0 +1,3 @@
+Download the ENTIRE folder to play, otherwise it won't work because the assets are missing
+
+Download semua file di foldernya untuk main, karena kalau tidak, gamenya tidak dapat menemukan asset-assetnya
